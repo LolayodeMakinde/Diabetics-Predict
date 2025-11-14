@@ -1,0 +1,8 @@
+#what you need in the requirement file are the list of libraries that you'll need to use for the app
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+
